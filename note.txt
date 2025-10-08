@@ -1,5 +1,3 @@
 - Git rất hữu ích cho lập trình viên.
 - Dễ theo dõi thay đổi.
 - Hỗ trợ làm việc nhóm.
-- Có thể khôi phục lỗi.
-- Branch giúp phát triển song song.
