@@ -1,0 +1,6 @@
+
+Tính năng mới: Thống kê doanh thu theo khu vực.
+- Cho phép người dùng xem doanh thu được phân loại theo từng khu vực địa lý.
+- Có thể lọc theo ngày, tháng hoặc năm.
+- Hiển thị biểu đồ trực quan giúp so sánh giữa các khu vực.
+- Cho phép xuất dữ liệu ra Excel và PDF để phục vụ báo cáo.
