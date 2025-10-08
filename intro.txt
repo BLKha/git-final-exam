@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 Hello. this is Lam Kha 
 hiện tại tôi đang học tập và làm việc trong lĩnh vực công nghệ thông tin. Tôi đam mê học hỏi và không ngừng phát triển bản thân. Tôi luôn cố gắng hoàn thành công việc một cách hiệu quả và đúng hạn. Tôi tin rằng sự kiên trì và thái độ tích cực sẽ giúp tôi đạt được mục tiêu của mình.
+"Conflict resolved on [dd/mm/yyyy]"
+=======
+Xin chao toi ten la Bui Lam Kha
+Hiện tại tôi đang học tập và làm việc trong lĩnh vực công nghệ thông tin. Tôi đam mê học hỏi và không ngừng phát triển bản thân. Tôi luôn cố gắng hoàn thành công việc một cách hiệu quả và đúng hạn. Tôi tin rằng sự kiên trì và thái độ tích cực sẽ giúp tôi đạt được mục tiêu của mình.
+>>>>>>> feature-update
 
 Sở thích:
 1. Đọc sách.
